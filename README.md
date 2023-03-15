@@ -1,5 +1,9 @@
 # Succinct Telepathy ceremony contributions
 
+The Succinct team is conducting phase 2 of a multi-party trusted setup ceremony.  Instructions and details of the ceremony is [here](https://www.notion.so/succinctlabs/Succinct-Trusted-Setup-eb1ee211e5c443a183888fcbf6ec0d57).
+
+All of the contributions listed below are within a public S3 bucket.
+
 | Participant ID | Twitter Handle | Contribution Link | Twitter Attestation |
 |-|-|-|-|
 |0000|N/A|s3://succinct-trusted-setup/0000-genesis/|N/A|
